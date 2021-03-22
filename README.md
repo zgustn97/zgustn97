@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zgustn97
+- 👋 Hi, I’m park
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
