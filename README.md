@@ -1,7 +1,7 @@
 - 👋 Hi, I’m park
 - 👀 I’m interested in deep learning, python, swift
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgustn97&layout=compact&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgustn97&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
