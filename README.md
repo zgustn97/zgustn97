@@ -1,10 +1,10 @@
 - 👋 Hi, I’m park
 - 👀 I’m interested in deep learning, python, swift  
-📖## This is what I use
+## This is what I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgustn97&layout=compact&hide=jupyter%20notebook)](https://github.com/zgustn97)
 ---
-📦## Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zgustn97&repo=upgradetodobin&show_owner=zgustn97)](https://github.com/zgustn97/upgradetodobin)
+## Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zgustn97&repo=upgradetodobi&show_owner=zgustn97)](https://github.com/zgustn97/upgradetodobin)
 
 
 <!---
