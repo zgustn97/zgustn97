@@ -1,5 +1,5 @@
 - 👋 Hi, I’m park
-- 👀 I’m interested in deep learning, python, swift  
+- 👀 I’m interested in deep learning, developing ios app 
 ## This is what I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgustn97&layout=compact&hide=jupyter%20notebook)](https://github.com/zgustn97)
 ---
