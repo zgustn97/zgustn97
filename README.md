@@ -5,7 +5,7 @@
 ---
 ## Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zgustn97&repo=upgradetodobin&show_owner=zgustn97)](https://github.com/zgustn97/upgradetodobin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zgustn97&repo=appforlab&show_owner=zgustn97)](https://github.com/zgustn97/appforlab)
+
 
 
 
