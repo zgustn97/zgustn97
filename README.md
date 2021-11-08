@@ -1,5 +1,9 @@
-- 👋 Hi, I’m park
-- 👀 I’m interested in deep learning, developing ios app 
+- Hi, I’m park
+- I’m interested in deep learning, developing ios app
+- Now I'm developing an android app as a project in my LAB
+- I use Python/Swift/Kotlin
+
+
 ## This is what I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgustn97&layout=compact&hide=jupyter%20notebook,java,javascript,AIDL,HTML,Shell)](https://github.com/zgustn97)
 ---
